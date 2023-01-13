@@ -7,4 +7,4 @@
 
 # MERN-Authentication
 
-This app was built to learn JWT Authentication and Forgot Password 
+This app was built to learn JWT Authentication and Forgot Password with Node-mailer package
